@@ -1,5 +1,5 @@
 # Task Manager Application
-
+ 
 This Task Manager Application is built using React, MongoDB, and GraphQL, with Material UI framework for design consistency and aesthetics. It offers a comprehensive suite of features to manage tasks efficiently.
 
 ## Features
